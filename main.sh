@@ -57,7 +57,7 @@ if [[ $op = "2" ]]; then
   read RMPKG
 
   if [[ $PackMgr = "1" ]]; then
-    sudo pacman -S $RMPKG
+    sudo pacman -R $RMPKG
   elif [[ $PackMgr = "2" ]]; then
     yay -R $RMPKG
   elif [[ $PackMgr = "3" ]]; then
