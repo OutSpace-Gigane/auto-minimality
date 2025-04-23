@@ -13,3 +13,8 @@ Credits:
 **Flatpak** Belongs to Alexander Larsson [Installation](https://flatpak.org/setup/)  
 
 For more questions: Join [My Discord Server](https://discord.com/invite/HfS9uekFnS)
+
+# Installation
+1 - Just Install the Source code from "Releases"
+2 - Give permission to script with "chmod" (example: sudo chmod +x main.sh)
+3 - Run command with "./" and script the file name that you want. (example: ./main.sh)
