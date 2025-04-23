@@ -2,7 +2,7 @@
 # (This Project has been only made for DEVELOPMENT PURPOSES, so this shouldn't steal or copy from anyone!)
 
 Welcome to our little and minimalist auto installer for beginner terminal users.  
-This is Only 36 Lines and written in Bash!  
+This is Only 66 Lines and written in Bash!  
 
 > [!IMPORTANT]
 > Don't forget that this is only for **Arch Linux [and Arch Linux / Pacman Based]** distros
