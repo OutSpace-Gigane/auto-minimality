@@ -12,4 +12,4 @@ Credits:
 **yay** Belongs to Jguer [Original Link and Installation steps here!](https://github.com/Jguer/yay)  
 **Flatpak** Belongs to Alexander Larsson [Installation](https://flatpak.org/setup/)  
 
-For more questions: Join [My Discord Server](discord.com/invite/HfS9uekFnS)
+For more questions: Join [My Discord Server](https://discord.com/invite/HfS9uekFnS)
