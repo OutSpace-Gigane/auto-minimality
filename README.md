@@ -15,7 +15,7 @@ Welcome to Auto-Minimality, our minimalist Automatic Package Helper that support
 Go to the Directory where you installed the .zip / tar.gz file  
 then type these commands on your terminal:  
 
-``````
+
 ```
 cd Downloads  
 unzip auto-minimality-ver0.3 #replace with tar if you installed tar.gz file  
