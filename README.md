@@ -1,20 +1,40 @@
-# auto-minimality
 # (This Project has been only made for DEVELOPMENT PURPOSES, so this shouldn't steal or copy from anyone!)
 
-Welcome to our little and minimalist auto installer for beginner terminal users.  
-This is Only 66 Lines and written in Bash!  
+Welcome to Auto-Minimality, our minimalist Automatic Package Helper that supports those package managers:
 
-> [!IMPORTANT]
-> Don't forget that this is only for **Arch Linux [and Arch Linux / Pacman Based]** distros
-
-Credits:
-**Pacman** is a Package Manager, Belongs to Arch Linux  
-**yay** Belongs to Jguer [Original Link and Installation steps here!](https://github.com/Jguer/yay)  
-**Flatpak** Belongs to Alexander Larsson [Installation](https://flatpak.org/setup/)  
-
-For more questions: Join [My Discord Server](https://discord.com/invite/HfS9uekFnS)
+- Pacman (Arch Linux Default Package Manager)  
+- [yay](https://github.com/Jguer/yay)  
+- [Flatpak](https://flatpak.org/setup/)  
+- apt (Package Manager which is used on Debian and Debian-Based Distros)  
+- pkg (used in Termux and FreeBSD)  
 
 # Installation
-1 - Just Install the Source code from "Releases"  
-2 - Give permission to script with "chmod" (example: sudo chmod +x main.sh)  
-3 - Run command with "./" and script the file name that you want. (example: ./main.sh)  
+
+## Method 1 (Installing from Releases Section)
+
+Go to the Directory where you installed the .zip / tar.gz file  
+then type these commands on your terminal:  
+
+``````
+```
+cd Downloads  
+unzip auto-minimality-ver0.3 #replace with tar if you installed tar.gz file  
+  
+# replace "x" with file that you want to execute.  
+chmod +x x.sh  
+./x.sh
+
+```
+
+## Method 2 (Installing with "git clone")
+
+type these commands:  
+  
+```
+git clone https://github.com/OutSpace-Gigane/auto-minimality.git  
+cd auto-minimality  
+  
+# replace "x" with file that you want to execute (again)  
+chmod +x x.sh  
+./x.sh  
+```
